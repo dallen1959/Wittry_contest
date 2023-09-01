@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PolygonFun
+comment0.text=\r\n\ PolygonFun.\r\n\r\n\ @author\ \ Don\ Allen\r\n\ @version\ 2021\ Wittry\ Programming\ contest\r\n
+comment1.params=v1\ v2\ v3\ v4\ v5
+comment1.target=int\ getNumConvex(java.util.List,\ java.util.List,\ java.util.List,\ java.util.List,\ java.util.List)
+comment2.params=t\ v1\ v2\ v3\ v4\ v5
+comment2.target=void\ fillTemp(Coordinate[],\ double[],\ double[],\ double[],\ double[],\ double[])
+comment3.params=upperLeft\ lowerRight
+comment3.target=int\ whichQuadrant(Coordinate,\ Coordinate)
+comment3.text=\r\n\ \ \ given\ upper\ left\ corner\ and\ lower\ right\ corner\ of\ a\ rectangle\r\n\ \ \ \r\n\ \ \ return\ the\ quadrant\ which\ contains\ the\ greatest\ area\ of\ the\ rectangle\r\n
+comment4.params=angles\ diagonals
+comment4.target=java.lang.String\ getNumberOfSides(int,\ int)
+comment5.params=vertices
+comment5.target=boolean\ isConvex(Coordinate[])
+comment5.text=\r\n\ \ \ \ \ vertices.length\ \=\=\ number\ of\ vertices\ of\ the\ polygon\r\n\ \ \ \ \ vertices[m].length\ \=\=\ 2,\ 0\ <\=\ m\ <\ vertices.length\r\n\ \ \ \ \ vertices[m][0]\ \=\ x\ coordinate\r\n\ \ \ \ \ vertices[m][1]\ \=\ y\ coordinate\r\n\ \ \ \ \ \r\n\ \ \ \ \ Vertices\ are\ given\ in\ clockwise\r\n\ \ \ \ \ vertices[m]\ and\ vertices[m+1]\ are\ adjacent.\r\n\ \ \ \ \ \r\n\ \ \ \ \ You\ may\ assume\ no\ two\ adjacent\ Coordinates\ are\ collinear\r\n\ \ \ \ \ \r\n\ \ \ \ \ return\ true\ if\ vertices\ define\ a\ convex\ polygon\r\n\ \ \ \ \ \ \ \ \ \ \ \ false\ otherwise\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ definition\:\ \ A\ convex\ polygon\ is\ defined\ as\ a\ polygon\ with\ all\ its\ interior\ angles\ less\ than\ 180\r\n\ \ \ \ \ \r\n\ \ \ \ \ sum\ of\ interior\ angles\ \=\ (n-2)\ *\ 180\ \ or\ (n-2)\ *\ PI\r\n
+comment6.params=t\ v1\ v2\ v3\ v4\ v5
+comment6.target=void\ fillTemp(double[][],\ double[][],\ double[][],\ double[][],\ double[][],\ double[][])
+numComments=7

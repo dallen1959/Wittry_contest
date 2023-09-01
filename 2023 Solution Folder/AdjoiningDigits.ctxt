@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AdjoiningDigits
+comment0.text=\r\n\ @author\ \ Don\ Allen\r\n\ @version\ 2023\ Wittry\ Contest\r\n
+comment1.params=number\ divisors
+comment1.target=boolean\ isDivisibleBy(int,\ int[])
+comment2.params=num
+comment2.target=int\ getLCM(int[])
+comment3.params=num\ numDigits\ divisors
+comment3.target=int\ adjoinDigits(int,\ int,\ int[])
+numComments=4

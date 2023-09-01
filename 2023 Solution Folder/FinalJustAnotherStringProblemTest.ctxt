@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=FinalJustAnotherStringProblemTest
+comment0.text=\r\n\ The\ test\ class\ studentTest.\r\n\r\n\ @author\ \ Don\ Allen\r\n\ @version\ 2021\ Wittry\ programming\ contest\r\n
+comment1.params=
+comment1.target=void\ testJustAnotherStringProblem01()
+comment10.params=
+comment10.target=void\ testgetAllPermutations_9itemsSizeCheckOnly10()
+comment2.params=
+comment2.target=void\ testgetAllPermutations_2items02()
+comment3.params=
+comment3.target=void\ testgetAllPermutations_3items03()
+comment4.params=
+comment4.target=void\ testgetAllPermutations_4items04()
+comment5.params=
+comment5.target=void\ testgetIndexes_2items05()
+comment6.params=
+comment6.target=void\ testgetIndexes_3items06()
+comment7.params=
+comment7.target=void\ testgetIndexes_4items07()
+comment8.params=
+comment8.target=void\ testgetAllPermutations_5itemsSizeCheckOnly08()
+comment9.params=
+comment9.target=void\ testgetAllPermutations_6itemsSizeCheckOnly09()
+numComments=11

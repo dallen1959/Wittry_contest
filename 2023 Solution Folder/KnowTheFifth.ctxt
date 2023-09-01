@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=KnowTheFifth
+comment0.text=\r\n\ @author\ \ Don\ Allen\r\n\ @version\ 2024\ Wittry\ Contest\r\n
+comment1.params=c1\ c2
+comment1.target=Card\ isSmaller(Card,\ Card)
+comment1.text=\r\n\ \ \ \ precondition\:\ \ \!c1.equals(c2)\r\n
+comment2.params=cards
+comment2.target=Card[]\ arrangeCards(Card[])
+comment2.text=\r\n\ \ \ \ preCondition\:\ cards.length()\ \=\=\ 5\r\n\ \ \ \ \r\n\ \ \ \ return\ the\ proper\ arrangement\ of\ the\ four\ Cards\ which\ indicate\ the\ fifth\ card\r\n\ \ \ \ if\ multiple\ arrangements\ exist,\ return\ any\ of\ the\ arrangements\r\n
+comment3.params=cs
+comment3.target=int\ evaluateOrder(Card[])
+comment3.text=\r\n\ \ \ \ \ \ cs.size()\ \=\=\ 3\r\n
+comment4.params=cards
+comment4.target=Card\ name5thCard(Card[])
+comment4.text=\r\n\ \ \ \ cards.length()\ \=\=\ 4\r\n\ \ \ \ \r\n\ \ \ \ return\ the\ card\ indicate\ by\ the\ four\ cards\ in\ Cards\r\n
+numComments=5

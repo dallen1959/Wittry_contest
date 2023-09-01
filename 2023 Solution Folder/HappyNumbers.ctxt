@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HappyNumbers
+comment0.text=\r\n\ @author\ \ Don\ Allen\r\n\ @version\ 2021\ Wittry\ Contest\r\n
+comment1.params=
+comment1.target=void\ searchForLength8()
+comment2.params=
+comment2.target=void\ getHappyNumbers()
+comment3.params=num
+comment3.target=int\ makeHappy(int)
+comment3.text=\r\n\ \ \ \ \ percondition\:\ isHappy(num)\ \=\=\ false\r\n\ \ \ \ \ \r\n\ \ \ \ \ If\ num\ can\ modified\ by\ changing\ any\ digit\ by\ 1,\ retun\ smallest\ such\ number\r\n\ \ \ \ \ \r\n\ \ \ \ \ else\ return\ -1\r\n\ \ \ \ \ \r\n\ \ \ \ \ makeHappy(33)\ return\ 23.\ makeHappy(33)\ will\ check\ 23,\ 32,\ 34\ &\ 43\r\n\ \ \ \ \ makeHappy(20)\ will\ check\ 10,\ 30,\ 21\ and\ 29\r\n\ \ \ \ \ makeHappy(99)\ will\ check\ 89,\ 109,\ 98\ and\ 910\r\n\ \ \ \ \ \r\n\ \ \ \ \ makeHappy(123)\ (leading\ 1)\ will\ check\ 923,\ 223,\ 113,\ 133,\ 122,\ 124\r\n
+comment4.params=nums
+comment4.target=int[]\ getHappyNumbers(int[][])
+comment5.params=num
+comment5.target=int\ getHappyLength(int)
+comment6.params=num\ power
+comment6.target=int\ isHappy(int,\ int)
+numComments=7

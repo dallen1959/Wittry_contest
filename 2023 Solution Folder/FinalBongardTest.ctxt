@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=FinalBongardTest
+comment0.text=\r\n\ The\ test\ class\ studentTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ testBongard01()
+comment10.params=
+comment10.target=void\ testBongardWhichBox10()
+comment2.params=
+comment2.target=void\ testBongardProperties01()
+comment3.params=
+comment3.target=void\ testBongardWhichBox03()
+comment4.params=
+comment4.target=void\ testBongardWhichBox04()
+comment5.params=
+comment5.target=void\ testBongardWhichBox05()
+comment6.params=
+comment6.target=void\ testBongardWhichBox06()
+comment7.params=
+comment7.target=void\ testBongardWhichBox07()
+comment8.params=
+comment8.target=void\ testBongardWhichBox08()
+comment9.params=
+comment9.target=void\ testBongardWhichBox09()
+numComments=11

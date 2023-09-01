@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=DiceyWords
+comment0.text=\r\n\ @author\ \ Don\ Allen\r\n\ @version\ 2021\ Wittry\ Contest\r\n
+comment1.params=die
+comment1.target=DiceyWords(java.lang.String[][])
+comment2.params=words
+comment2.target=java.util.List\ getImpossibleWords(java.util.ArrayList)
+comment2.text=\r\n\ \ \ words\ contains\ strings\ of\ length\ 4\r\n\ \ \ \r\n\ \ \ Return\ a\ List<String>\ containing\ all\ Strings\ in\ the\ parameter\ words\r\n\ \ \ \ \ \ \ \ \ \ that\ cannot\ be\ spelled\ given\ the\ four\ die\r\n
+comment3.params=die\ words
+comment3.target=java.lang.String\ missingDie(java.lang.String[][],\ java.util.ArrayList)
+comment3.text=\r\n\ \ \ words\ contains\ strings\ of\ length\ 4\r\n\ \ \ \r\n\ \ \ die\ contains\ 3\ die\ with\ 6\ different\ letters\r\n\ \ \ \ \ \ \ no\ letter\ appears\ more\ than\ once\ on\ a\ die\r\n\ \ \ \ \ \ \ and\ no\ letter\ may\ appear\ on\ more\ than\ 1\ die\r\n\ \r\n\ \ \ \ return\ a\ String\ containing\ each\ letter\ required\ on\ the\ 4th\ die\r\n\ \ \ \ \ such\ that\ each\ word\ in\ words\ could\ be\ spelled\ with\ when\ the\ 4th\ die\r\n\ \ \ \ \ is\ added\ to\ the\ original\ three\ die\r\n
+comment4.params=words
+comment4.target=java.lang.String\ unusedLetters(java.util.ArrayList)
+comment4.text=\r\n\ \ \ return\ a\ list\ of\ letters\ on\ the\ four\ die\ not\ found\ in\ any\ word\ in\ words\r\n
+comment5.params=words\ numDice
+comment5.target=java.util.List\ getDice(java.util.List,\ int)
+comment6.params=words\ dice
+comment6.target=boolean\ isGoodDice(java.util.List,\ java.util.List)
+comment6.text=\r\n\r\n
+numComments=7

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=JustAnotherStringProblem
+comment0.text=\r\n\ @author\ \ Don\ Allen\r\n\ @version\ 2021\ Wittry\ Contest\r\n
+comment1.params=w
+comment1.target=JustAnotherStringProblem(java.lang.String[])
+comment2.params=
+comment2.target=java.util.List\ getAllPermutations()
+comment3.params=w
+comment3.target=int[]\ getIndexes(java.lang.String)
+comment3.text=\r\n\ \ \ \ if\ no\ substrings\ found,\ return\ an\ int[]\ with\ length\ zero\r\n
+numComments=4

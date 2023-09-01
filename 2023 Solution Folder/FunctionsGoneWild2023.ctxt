@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.target=FunctionsGoneWild2023
+comment0.text=\r\n\ The\ test\ class\ FunctionsGoneWild2020.\r\n\r\n\ @author\ \ Don\ Allen\r\n\ @version\ 2020\ Wittry\ Programming\ contest\r\n
+comment1.params=n
+comment1.target=java.lang.String\ f1(int)
+comment1.text=\r\n\ \ \ n\ >\ 1\r\n
+comment10.params=x\ y\ z
+comment10.target=boolean\ f9(boolean,\ boolean,\ boolean)
+comment11.params=j\ k\ m\ n
+comment11.target=boolean\ f10(boolean,\ boolean,\ boolean,\ boolean)
+comment2.params=str\ div
+comment2.target=int\ f2(java.lang.String,\ int)
+comment2.text=\r\n\ \ \ \ Given\ the\ String\ "d3739d0"\ and\ the\ number\ 60,\r\n\ \ \ \ \ \ \ \ \ \ \ return\ the\ number\ that\ replaces\ d\ so\ that\ d3739d0\ is\ divisible\ by\ 60?\r\n\ \ \ \ div\ \!\=\ 0\r\n\ \ \ \ \r\n\ \ \ \ str\ contains\:\r\n\ \ \ \ \ \ \ \ \ \ at\ least\ one\ non\ zero\ digit\r\n\ \ \ \ \ \ \ \ \ \ str.indexOf("-")\ <\ 0;\r\n\ \ \ \ \ \ \ \ \ \ str\ may\ contain\ more\ than\ one\ d\r\n
+comment3.params=n
+comment3.target=int\ f3(int)
+comment3.text=\r\n\ \ \ \ \r\n
+comment4.params=a\ b\ c
+comment4.target=int\ f4(int,\ int,\ int)
+comment5.params=num
+comment5.target=double\ f5(java.lang.String)
+comment6.params=x\ y\ z
+comment6.target=double\ f6(double,\ double,\ double)
+comment7.params=ms\ sq
+comment7.target=boolean\ f7(java.lang.String,\ java.lang.String)
+comment7.text=\r\n
+comment8.params=phrase
+comment8.target=java.lang.String\ f8(java.lang.String)
+comment8.text=\r\n\ \ \ \ \ precondtion\:\ \ phrase\ will\ only\ contain\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Upper\ case\ letters\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (Z)ERO,\ T(W)O,\ SI(X),\ FO(U)R,\ EI(G)HT\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (O)NE,\ T(H)(R)EE,\ (S)EVEN,\ (F)IVE\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (N)INE\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ phrase.length()\ >\=\ 0\r\n
+comment9.params=str\ s
+comment9.target=java.lang.String\ remove(java.lang.String,\ java.lang.String)
+numComments=12
